@@ -33,6 +33,7 @@ public class InputVerticle extends AbstractVerticle {
 //        .setAddress("inputserviceAddress")
 //        .register(InputService.class, inputService);
 //      startPromise.complete();
+      // cloned project
 
       //ROUTING TO THE METHODS AND HANDLER FUNCTION
       Router router = Router.router(vertx);
